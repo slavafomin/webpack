@@ -1,2 +1,2 @@
 var EventEmitter = require("events");
-module.exports = new EventEmitter();
+module.exports = new EventEmitter('hello');
